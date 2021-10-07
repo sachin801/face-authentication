@@ -14,7 +14,8 @@ red=cv.merge([blank,blank,r])
 cv.imshow('Blue blank',blue)
 cv.imshow('Green blank',green)
 cv.imshow('Red blank',red)
-
+#merging above three will real image
+ 
 cv.imshow('Blue',b)
 cv.imshow('Green',g)
 cv.imshow('Red', r)
