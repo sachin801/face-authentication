@@ -29,4 +29,6 @@ cv.imshow('CAnny', cany)
 
 
 
+
+
 cv.waitKey(0)
